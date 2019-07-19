@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No provider available for the service com.pinyougou.search.service.ItemSearchService from the url zookeeper://192.168.25.135:2181/com.alibaba.dubbo.registry" />
       <item value="public interface MessageListener { void onMessage(Message message);&#10;}" />
       <item value="An error report file with more information is saved as:" />
       <item value="Native memory allocation (malloc) failed to allocate 816176 bytes for Chunk::new" />
@@ -50,7 +51,6 @@
       <item value="Serializable" />
       <item value="Error updating database. Cause: java.sql.SQLException: Field 'goods_id' doesn't have a default value&#10;### The error may involve com.pinyougou.mapper.TbGoodsDescMapper.insertSelective-Inline&#10;### The error occurred while setting parameters&#10;### SQL: insert into tb_goods_desc ( introduction, package_list, sale_service ) values ( ?, ?, ? )&#10;### Cause: java.sql.SQLException: Field 'goods_id' doesn't have a default value" />
       <item value="file Content" />
-      <item value="# Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '123123123' for key 'PRIMARY'&#10;; ]; Duplicate entry '123123123' for key 'PRIMARY'; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '123123123' for key 'PRIMARY'" />
     </histories>
     <option name="languageScores">
       <map>
