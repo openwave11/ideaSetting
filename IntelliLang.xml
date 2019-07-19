@@ -1,0 +1,24 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>Insert.value (org.apache.ibatis.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Insert")]]></place>
+    </injection>
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>Many.select (org.apache.ibatis.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("select").withParameters().definedInClass("org.apache.ibatis.annotations.Many")]]></place>
+    </injection>
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>Select.value (org.apache.ibatis.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Select")]]></place>
+    </injection>
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>UserDao.loadUserByUsername (cn.itcast.dao)</display-name>
+      <place><![CDATA[psiMethod().withName("loadUserByUsername").withParameters("java.lang.String").definedInClass("cn.itcast.dao.UserDao")]]></place>
+    </injection>
+    <injection language="Angular2Html" injector-id="xml">
+      <display-name>body</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("body")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+  </component>
+</application>

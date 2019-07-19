@@ -1,0 +1,106 @@
+<application>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="entitySuffix" value="" />
+    <option name="generateColumnProperties" value="true" />
+    <option name="generateDefaultRelationships" value="true" />
+    <option name="ENTITY_SUFFIX" value="" />
+    <option name="GENERATE_COLUMN_PROPERTIES" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+    <option name="GENERATE_DEFAULT_RELATIONSHIPS" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BackgroundImagesAutoChange" value="true" />
+    <property name="BackgroundImagesFolder" value="C:\娱乐\lolskin" />
+    <property name="BackgroundImagesInterval" value="1" />
+    <property name="CUSTOMIZE_ACTIONS" value="string" />
+    <property name="ColorChooser.RecentColors" value="179-224-249-255,,,224-255-24-255,,,255-236-39-255,,,169-14-22-255,,,83-197-83-255,,,188-31-143-255,,,197-35-221-255,,,7-15-7-255,,,169-124-27-255,,,169-1-0-255,,,226-43-36-255,,,255-21-19-255,,,237-0-11-255,,,255-51-19-255,,,255-255-255-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.77310926" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7322835" />
+    <property name="ConsoleQuickFilterPanel-expression" value="0|false|false|false| No plugin found for prefix 'tomcat7' in the current project and in the plugin groups [org.apache.maven.plugins, org.codehaus.mojo] available from the repositories [local (C:\develop\apache-maven-3.5.2\maven_repository), alimaven (http://maven.aliyun.com/nexus/content/groups/public/)] -&gt; [Help 1] [ERROR] " />
+    <property name="ConsoleQuickFilterPanel-unlessExpression" value="" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="MySQL" />
+    <property name="DbRenameDialog.previewExpanded" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Other" />
+    <property name="FileTemplates.SelectedTemplate" value="Filter Annotated Class" />
+    <property name="FindSplitterProportion" value="0.24530387" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.1367989" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.15860428" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.18867925" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.23282887" />
+    <property name="INSPECTION_FILTER_HISTORY" value="serialVersionUID&#10;sql&#10;Injected language fragment&#10;dialect detection&#10;No data sources configured&#10;simi" />
+    <property name="INTENTION_FILTER_HISTORY" value="Injected language fragment" />
+    <property name="InstalledPluginsSearchHistory" value="ai&#10;myb&#10;mybatisx&#10;key&#10;angula" />
+    <property name="JUnit.Splitter.Proportion" value="0.18157181" />
+    <property name="JUnitSupport.hideIgnoredTests" value="false" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="KEYMAP" value="tomc&#10;jrebel&#10;tomcat&#10;阿里&#10;folding" />
+    <property name="LAST_INJECTED_LANGUAGE" value="Angular2Html" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript 1.5" value="false" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.25775194" />
+    <property name="RegistryRecentKeys" value="actionSystem.always.update.toolbar.actions=action.aware.typeahead.actions.list=debugger.watches.in.variables" />
+    <property name="SettingsSearchHistory" value="ai&#10;free&#10;aix&#10;jdk&#10;registry" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="SpringBeansModulesPanel[0]" value="0.1367989" />
+    <property name="SpringBeansModulesPanel[1]" value="0.1572327" />
+    <property name="SpringMvcModulesPanel[0]" value="0.13559322" />
+    <property name="SpringMvcModulesPanel[1]" value="0.15698586" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="aixcode&#10;Rainbow Brackets&#10;jreb&#10;je&#10;Mybatis" />
+    <property name="UpdatePluginsSearchHistory" value="AngularJS" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.3.2" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.view.editors.ObjectEditorWithPreview.proportion" value="-0.61904764" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.searchHistory" value="brandc&#10;brand&#10;br" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="163" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.project.dir" value="C:\develop\IdeaProject\pinyougou\pinyougou-parent\generatorSqlmapCustom" />
+    <property name="eclipse.remote.project.storage" value="C:\develop\IdeaProject\sl1" />
+    <property name="emmet.last.update.abbreviations" value="model" />
+    <property name="emmet.recent.update.abbreviations" value="model" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="file.chooser.recent.files" value="D:/0/6.品优购/4.品优购教学视频--在学/品优购day13/代码/pinyougou-parent/pinyougou-page-web/src/main/webapp/js/controller/itemController.js&#10;D:/0/6.品优购/4.品优购教学视频--在学/品优购day13/代码/pinyougou-parent/pinyougou-manager-web/src/main/webapp/js/controller/goodsController.js&#10;D:/0/6.品优购/4.品优购教学视频--在学/品优购day13/代码/pinyougou-parent/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/GoodsController.java&#10;C:/develop/IdeaProject/pinyougou_test/pinyougou-parent-老师/pom.xml&#10;C:/develop/IdeaProject/pinyougou_test/pinyougou-parent/pom.xml&#10;C:/develop/IdeaProject/pinyougou_test&#10;C:/develop/IdeaProject/vhr/hrserver/pom.xml&#10;C:/develop/apache-tomcat-8.5.31/webapps/pinyougou-portal-web-1.0-SNAPSHOT.war&#10;C:/develop/apache-tomcat-8.5.31/webapps/mdp-bizs.war&#10;C:/develop/solrhome/collection_pyg/conf/schema.xml&#10;C:/develop/solrhome/collection_pyg/conf&#10;C:/develop/apache-maven-3.5.2/conf/settings.xml&#10;C:/develop/IdeaProject/pinyougou_test/PYg_parent/pom.xml&#10;C:/develop/IdeaProject/pinyougou/SpringDataRedisDemo/pom.xml&#10;C:/develop/IdeaProject/pinyougou/pinyougou-parent-now/pinyougou-manager-web/src/main/resources/spring/spring-security.xml&#10;C:/develop/IdeaProject/pinyougou/pinyougou-parent-now/pinyougou-manager-web/src/main/webapp/WEB-INF/web.xml&#10;C:/develop/IdeaProject/pinyougou/pinyougou-parent-now/pom.xml&#10;C:/develop/IdeaProject/pinyougou/pinyougou-parent/pom.xml&#10;E:/BaiduNetdiskDownload/MybatisCodeHelperNew-2.5-IDEA173-IDEA191.zip&#10;C:/develop/IdeaProject/pinyougou/PYg_parent/pom.xml&#10;C:/develop/IdeaProject/pinyougou&#10;C:/Users/Administrator/Desktop/AngularJS-192.5281.21.zip&#10;C:/Users/Administrator/Desktop/AngularJS-192.5438.12.zip&#10;C:/develop/IdeaProject/pinyougou-parent/pinyougou-manager-web/src/main/webapp/angularjs/angular.min.js&#10;C:/develop/IdeaProject/pinyougou/pinyougou-parent/generatorSqlmapCustom&#10;C:/develop/IdeaProject/cn.itcast.pinyougou&#10;C:/develop/IdeaProject/pinyougou/pinyougou-parent/pinyougou-dao/pom.xml&#10;C:/develop/IdeaProject/pinyougou-parent/pinyougou-pojo/pom.xml&#10;C:/develop/IdeaProject/pinyougou-parent/pinyougou-manager-web/pom.xml&#10;C:/develop/IdeaProject/pinyougou-parent/pinyougou-dao/pom.xml" />
+    <property name="file.gist.reindex.count" value="22129" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.31" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="60246" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.var.names.completion" value="false" />
+    <property name="kotlin.lastUpdateCheck" value="1553353789725" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="1030" />
+    <property name="large.file.editor.notification.disabled" value="true" />
+    <property name="last.imported.location" value="C:/develop/IdeaProject/pinyougou_test/pinyougou-parent-老师/pom.xml" />
+    <property name="lastTip" value="1" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="C:\娱乐\lolskin\Vi_Splash_2.jpg&#10;C:\娱乐\lolskin\Gragas_Splash_6.jpg&#10;C:\娱乐\lolskin\Garen_Splash_11.jpg&#10;D:\0\2019版javaweb第三阶段\day07_HTML\资料\案例\案例3_旅游网首页\案例效果.bmp&#10;D:\0\2019版javaweb第三阶段\day07_HTML\资料\案例\案例3_旅游网首页\案例效果_proc.jpg" />
+    <property name="plugins.preselection.path" value="E:/BaiduNetdiskDownload" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="selected.color.option.type" value="FTL_BRACES" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Blank Lines" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+  <component name="com.a.a.i.a.a.J" enableSqlConsole="true" />
+</application>

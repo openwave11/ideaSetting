@@ -1,0 +1,12 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="generateMethodInService" value="true" />
+        <option name="generateMethodInServiceInterface" value="true" />
+        <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="valid" value="true" />
+      </Profile>
+    </option>
+  </component>
+</application>

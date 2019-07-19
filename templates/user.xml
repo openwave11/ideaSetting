@@ -1,0 +1,57 @@
+<templateSet group="user">
+  <template name="jdk1.8" value="&lt;plugin&gt;&#10;    &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;    &lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;    &lt;version&gt;3.8.0&lt;/version&gt;&#10;    &lt;configuration&gt;&#10;        &lt;target&gt;1.8&lt;/target&gt;&#10;        &lt;source&gt;1.8&lt;/source&gt;&#10;        &lt;encoding&gt;UTF-8&lt;/encoding&gt;&#10;    &lt;/configuration&gt;&#10;&lt;/plugin&gt;" description="编译为jdk1.8" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="tomcat7" value="  &lt;plugin&gt;&#10;    &lt;groupId&gt;org.apache.tomcat.maven&lt;/groupId&gt;&#10;    &lt;artifactId&gt;tomcat7-maven-plugin&lt;/artifactId&gt;&#10;    &lt;version&gt;2.2&lt;/version&gt;&#10;    &lt;configuration&gt;&#10;      &lt;port&gt;8888&lt;/port&gt;&#10;    &lt;/configuration&gt;&#10;  &lt;/plugin&gt;" description="设置tomcat7" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="tomcat7andjdk8" value="&lt;build&gt;&#10; &lt;plugins&gt;&#10;      &lt;plugin&gt;&#10;        &lt;groupId&gt;org.apache.tomcat.maven&lt;/groupId&gt;&#10;        &lt;artifactId&gt;tomcat7-maven-plugin&lt;/artifactId&gt;&#10;        &lt;version&gt;2.2&lt;/version&gt;&#10;        &lt;configuration&gt;&#10;          &lt;port&gt;80&lt;/port&gt;&#10;          &lt;path&gt;/&lt;/path&gt;  &#10;        &lt;/configuration&gt;&#10;      &lt;/plugin&gt;&#10;      &lt;plugin&gt;&#10;          &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;          &lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;          &lt;configuration&gt;&#10;            &lt;target&gt;1.8&lt;/target&gt;&#10;            &lt;source&gt;1.8&lt;/source&gt;&#10;            &lt;encoding&gt;UTF-8&lt;/encoding&gt;&#10;          &lt;/configuration&gt;&#10;        &lt;/plugin&gt;&#10; &lt;/plugins&gt;&#10; &lt;/build&gt;" description="设置tomcat7andjdk8" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="ng-model" value="ng-model=&quot;$END$&quot;" description="ng-module数据模型" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="app" value="var app = angular.module('$appName$', []);" description="var app = angular.module('$appName$', []);" toReformat="false" toShortenFQNames="true">
+    <variable name="appName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="$scope." value="$scope.$END$&quot;" description="$scope." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="/*" value="/**&#10; * @Description $end$ &#10; * @Date $time$ $date$&#10; * @Author $author$&#10; * @Param $param$&#10; * @return $return$&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="author" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ng-click" value="ng-click=&quot;$END$&quot;" description="ng-click" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

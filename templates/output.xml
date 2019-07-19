@@ -1,0 +1,7 @@
+<templateSet group="output">
+  <template name="cdata" value="&lt;![CDATA[$END$&#10;]]&gt;" description="cdata快捷方式" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

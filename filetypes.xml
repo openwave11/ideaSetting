@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="avi" type="Native" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="MyBaitesMapperConfig" type="XML" />
+      <mapping pattern="SqlMapperConfig" type="XML" />
+    </extensionMap>
+  </component>
+</application>

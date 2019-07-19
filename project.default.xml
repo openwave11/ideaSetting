@@ -1,0 +1,160 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="C:/develop/apache-maven-3.5.2" />
+            <option name="userSettingsFile" value="C:\develop\apache-maven-3.5.2\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="delegateBuildToMaven" value="true" />
+        <option name="vmOptions" value="-Dfile.encoding=GB2312 -Xms200m -Xmx300m" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Ali-Check</id>
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturityJava</id>
+              </State>
+              <State>
+                <id>Google Web Toolkit</id>
+              </State>
+              <State>
+                <id>JUnitJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>JavadocJava</id>
+              </State>
+              <State>
+                <id>Numeric issuesJava</id>
+              </State>
+              <State>
+                <id>PerformanceJava</id>
+              </State>
+              <State>
+                <id>Spring</id>
+              </State>
+              <State>
+                <id>Spring AOPSpring</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Ali-Check</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.25775194" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>angular.min.js</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.25775194" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.25775194" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.25775194" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.25775194" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

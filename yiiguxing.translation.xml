@@ -1,0 +1,67 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="public interface MessageListener { void onMessage(Message message);&#10;}" />
+      <item value="An error report file with more information is saved as:" />
+      <item value="Native memory allocation (malloc) failed to allocate 816176 bytes for Chunk::new" />
+      <item value="insufficient" />
+      <item value="There is insufficient memory for the Java Runtime Environment to continue." />
+      <item value="There is insufficient memory for the Java Runtime Environment to continue.&#10;# Native memory allocation (malloc) failed to allocate 816176 bytes for Chunk::new&#10;# An error report file with more information is saved as:&#10;# C:\develop\IdeaProject\pinyougou\pinyougou-parent\pinyougou-content-service\hs_err_pid9988.log&#10;[thread 11684 also had an error]&#10;[thread 812 also had an error]&#10;#&#10;# Compiler replay data is saved as:&#10;# C:\develop\IdeaProject\pinyougou\pinyougou-parent\pinyougou-content-service\replay_pid9988.log Process finished with exit code 1" />
+      <item value="Exception sending context initialized event to listener instance of class org.springframework.web.context.ContextLoaderListener&#10;org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'dataSource' defined in URL" />
+      <item value="snipplets" />
+      <item value="Snipplets" />
+      <item value="get Snipplets" />
+      <item value="org.springframework.data.solr.UncategorizedSolrException: Document is missing mandatory uniqueKey field: id; nested exception is org.apache.solr.client.solrj.impl.HttpSolrServer$RemoteSolrException: Document is missing mandatory uniqueKey field: id" />
+      <item value="Uncategorized Solr Exception" />
+      <item value="org.springframework.data.solr.UncategorizedSolrException: nested exception is java.lang.NullPointerException" />
+      <item value="write Wildcard Map Property To Target" />
+      <item value="at org.springframework.data.solr.core.convert.MappingSolrConverter.writeWildcardMapPropertyToTarget(MappingSolrConverter.java:310)" />
+      <item value="java.lang.NullPointerException at org.springframework.data.solr.core.convert.MappingSolrConverter.writeWildcardMapPropertyToTarget(MappingSolrConverter.java:310) at org.springframework.data.solr.core.convert.MappingSolrConverter.access$10" />
+      <item value="Configuration problem: Cannot locate BeanDefinitionParser for element [solr-server]" />
+      <item value="Offending resource:" />
+      <item value="resource" />
+      <item value="Offending" />
+      <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
+      <item value="Bean Definition Parsing Exception" />
+      <item value="Bean Definition Parser" />
+      <item value="locate" />
+      <item value="BeanDefinitionParser for element [solr-server]" />
+      <item value="ead &quot;main&quot; org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: Cannot locate BeanDefinitionParser for element [solr-server]" />
+      <item value="xception in thread &quot;main&quot; org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: Cannot locate BeanDefinitionParser for element [solr-server]&#10;Offending resource: file [C:\develop\IdeaProject\pinyougou\pinyougou-parent\pinyougou-solr-util\target\classes\spring\applicationContext-solr.xml]" />
+      <item value="Out Of Memory Error" />
+      <item value="ExecutionException: java.lang.OutOfMemoryError" />
+      <item value="A child container failed during start" />
+      <item value="constructor argument with index 1 of type [org.springframework.security.authentication.AuthenticationManager]: Ambiguous constructor argument types - did you specify the correct bean references as constructor arguments?" />
+      <item value="Ignoring constructor [public org.springframework.security.web.util.matcher.AntPathRequestMatcher(java.lang.String,java.lang.String,boolean)] of bean '(inner bean)#1d825821': org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name '(inner bean)#1d825821': Unsatisfied dependency expressed through constructor argument with index 2 of type [boolean]: Ambiguous constructor argument types - did you specify the correct bean references as constructor arguments?" />
+      <item value="No Such Field Exception" />
+      <item value="TRACE DefaultListableBeanFactory:190 - Ignoring constructor [public org.springframework.security.web.util.matcher.AntPathRequestMatcher(java.lang.String,java.lang.String,boolean)] of bean '(inner bean)#dec9fc9': org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name '(inner bean)#dec9fc9': Unsatisfied dependency expressed through constructor argument with index 2 of type [boolean]: Ambiguous constructor argument types - did you specify the correct bean references as constructor arguments?" />
+      <item value="0:12:11,738 TRACE DefaultListableBeanFactory:190 - Ignoring constructor [public org.springframework.security.web.FilterChainProxy(org.springframework.security.web.SecurityFilterChain)] of bean 'org.springframework.security.filterChainProxy': org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.security.filterChainProxy': Unsatisfied dependency expressed through constructor argument with index 0 of type [org.springframework.security.web.SecurityFilterChain]: Could not convert constructor argument value of type [java.util.ArrayList] to required type [org.springframework.security.web.SecurityFilterChain]: Failed to convert value of type [java.util.ArrayList] to required type [org.springframework.security.web.SecurityFilterChain]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.util.ArrayList] to required type [org.springframework.security.web.SecurityFilterChain]: no matching editors or conversion strategy found" />
+      <item value="content" />
+      <item value="context" />
+      <item value="160 - Checking match of request : '/seller/findAll'; against '/*/**'&#10;08:14:16,974 DEBUG FilterChainProxy:201 - /seller/findAll has an empty filter list" />
+      <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@8fee0e7] was not registered for synchronization because synchronization is not active" />
+      <item value="BC Connection [com.mysql.jdbc.JDBC4Connection@5e8b10ac] will not be managed by Spring" />
+      <item value="Protocol Handler" />
+      <item value=" Protocol Handler" />
+      <item value="The current request is not a multipart request" />
+      <item value="multipart" />
+      <item value="part" />
+      <item value="multi" />
+      <item value="Serializable" />
+      <item value="Error updating database. Cause: java.sql.SQLException: Field 'goods_id' doesn't have a default value&#10;### The error may involve com.pinyougou.mapper.TbGoodsDescMapper.insertSelective-Inline&#10;### The error occurred while setting parameters&#10;### SQL: insert into tb_goods_desc ( introduction, package_list, sale_service ) values ( ?, ?, ? )&#10;### Cause: java.sql.SQLException: Field 'goods_id' doesn't have a default value" />
+      <item value="file Content" />
+      <item value="# Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '123123123' for key 'PRIMARY'&#10;; ]; Duplicate entry '123123123' for key 'PRIMARY'; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '123123123' for key 'PRIMARY'" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
+        <entry key="LITHUANIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="disableAppKeyNotification" value="true" />
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
