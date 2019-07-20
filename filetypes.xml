@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="avi" type="Native" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="propertion" type="Properties" />
       <mapping pattern="MyBaitesMapperConfig" type="XML" />
       <mapping pattern="SqlMapperConfig" type="XML" />
     </extensionMap>
