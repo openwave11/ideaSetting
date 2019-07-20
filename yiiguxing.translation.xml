@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MissingAccessKeyId : AccessKeyId is mandatory for this action." />
       <item value="environment" />
       <item value="Environment" />
       <item value="nested exception is org.xml.sax.SAXParseException; lineNumber: 53; columnNumber: 9;" />
@@ -50,12 +51,11 @@
       <item value="The current request is not a multipart request" />
       <item value="multipart" />
       <item value="part" />
-      <item value="multi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="LITHUANIAN" value="1" />
       </map>
     </option>
