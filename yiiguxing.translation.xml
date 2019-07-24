@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pinyougou-cart-service" />
+      <item value="duplicate" />
       <item value="Protocol" />
       <item value="Protocol Handler" />
       <item value="call 'refresh' before invoking lifecycle methods via the context: Root WebApplicationContext: startup date [Wed Jul 24 23:14:54 CST 2019]; root of context hierarchy" />
@@ -49,8 +51,6 @@
       <item value="No Such Field Exception" />
       <item value="TRACE DefaultListableBeanFactory:190 - Ignoring constructor [public org.springframework.security.web.util.matcher.AntPathRequestMatcher(java.lang.String,java.lang.String,boolean)] of bean '(inner bean)#dec9fc9': org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name '(inner bean)#dec9fc9': Unsatisfied dependency expressed through constructor argument with index 2 of type [boolean]: Ambiguous constructor argument types - did you specify the correct bean references as constructor arguments?" />
       <item value="0:12:11,738 TRACE DefaultListableBeanFactory:190 - Ignoring constructor [public org.springframework.security.web.FilterChainProxy(org.springframework.security.web.SecurityFilterChain)] of bean 'org.springframework.security.filterChainProxy': org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.security.filterChainProxy': Unsatisfied dependency expressed through constructor argument with index 0 of type [org.springframework.security.web.SecurityFilterChain]: Could not convert constructor argument value of type [java.util.ArrayList] to required type [org.springframework.security.web.SecurityFilterChain]: Failed to convert value of type [java.util.ArrayList] to required type [org.springframework.security.web.SecurityFilterChain]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.util.ArrayList] to required type [org.springframework.security.web.SecurityFilterChain]: no matching editors or conversion strategy found" />
-      <item value="content" />
-      <item value="context" />
     </histories>
     <option name="languageScores">
       <map>
