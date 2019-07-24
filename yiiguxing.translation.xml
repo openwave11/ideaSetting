@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Protocol" />
+      <item value="Protocol Handler" />
       <item value="call 'refresh' before invoking lifecycle methods via the context: Root WebApplicationContext: startup date [Wed Jul 24 23:14:54 CST 2019]; root of context hierarchy" />
       <item value="The web application [] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak." />
       <item value="but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered." />
@@ -49,8 +51,6 @@
       <item value="0:12:11,738 TRACE DefaultListableBeanFactory:190 - Ignoring constructor [public org.springframework.security.web.FilterChainProxy(org.springframework.security.web.SecurityFilterChain)] of bean 'org.springframework.security.filterChainProxy': org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'org.springframework.security.filterChainProxy': Unsatisfied dependency expressed through constructor argument with index 0 of type [org.springframework.security.web.SecurityFilterChain]: Could not convert constructor argument value of type [java.util.ArrayList] to required type [org.springframework.security.web.SecurityFilterChain]: Failed to convert value of type [java.util.ArrayList] to required type [org.springframework.security.web.SecurityFilterChain]; nested exception is java.lang.IllegalStateException: Cannot convert value of type [java.util.ArrayList] to required type [org.springframework.security.web.SecurityFilterChain]: no matching editors or conversion strategy found" />
       <item value="content" />
       <item value="context" />
-      <item value="160 - Checking match of request : '/seller/findAll'; against '/*/**'&#10;08:14:16,974 DEBUG FilterChainProxy:201 - /seller/findAll has an empty filter list" />
-      <item value="SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@8fee0e7] was not registered for synchronization because synchronization is not active" />
     </histories>
     <option name="languageScores">
       <map>
