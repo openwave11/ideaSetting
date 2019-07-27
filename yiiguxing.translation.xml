@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please check registry access list (whitelist/blacklist)." />
       <item value="duplicate" />
       <item value="specifies" />
       <item value="modules.module[21]' specifies duplicate child module pinyougou-cart-service @ line 33, column 17" />
@@ -50,12 +51,11 @@
       <item value="A child container failed during start" />
       <item value="constructor argument with index 1 of type [org.springframework.security.authentication.AuthenticationManager]: Ambiguous constructor argument types - did you specify the correct bean references as constructor arguments?" />
       <item value="Ignoring constructor [public org.springframework.security.web.util.matcher.AntPathRequestMatcher(java.lang.String,java.lang.String,boolean)] of bean '(inner bean)#1d825821': org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name '(inner bean)#1d825821': Unsatisfied dependency expressed through constructor argument with index 2 of type [boolean]: Ambiguous constructor argument types - did you specify the correct bean references as constructor arguments?" />
-      <item value="No Such Field Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="147" />
         <entry key="LITHUANIAN" value="1" />
       </map>
     </option>
