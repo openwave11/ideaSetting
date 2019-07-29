@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not load TestContextBootstrapper [null]. Specify @BootstrapWith's 'value' attribute or make the default bootstrapper class available" />
       <item value="non null hash key required" />
       <item value="Illegal Argument Exception" />
       <item value="[DUBBO] Got unchecked and undeclared exception which called by 192.168.25.1. service: com.pinyougou.seckill.service.SeckillGoodsService, method: findList, exception: java.lang.IllegalArgumentException: non null hash key required, dubbo version: 2.8.4, current host: 127.0.0.1" />
@@ -50,12 +51,11 @@
       <item value="ead &quot;main&quot; org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: Cannot locate BeanDefinitionParser for element [solr-server]" />
       <item value="xception in thread &quot;main&quot; org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: Cannot locate BeanDefinitionParser for element [solr-server]&#10;Offending resource: file [C:\develop\IdeaProject\pinyougou\pinyougou-parent\pinyougou-solr-util\target\classes\spring\applicationContext-solr.xml]" />
       <item value="Out Of Memory Error" />
-      <item value="ExecutionException: java.lang.OutOfMemoryError" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="150" />
         <entry key="LITHUANIAN" value="1" />
       </map>
     </option>
