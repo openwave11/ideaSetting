@@ -37,6 +37,9 @@
             <Goal>
               <option name="commandLine" value="tomcat7:run -P pro" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="package -P pro" />
+            </Goal>
           </list>
         </option>
       </Goals>
