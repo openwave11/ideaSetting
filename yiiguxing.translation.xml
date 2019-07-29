@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal Argument Exception" />
+      <item value="No such any registry to export service in provider 192.168.25.1 use dubbo version 2.8.4" />
       <item value="monday" />
       <item value="MON" />
       <item value="Could not load TestContextBootstrapper [null]. Specify @BootstrapWith's 'value' attribute or make the default bootstrapper class available" />
       <item value="non null hash key required" />
-      <item value="Illegal Argument Exception" />
       <item value="[DUBBO] Got unchecked and undeclared exception which called by 192.168.25.1. service: com.pinyougou.seckill.service.SeckillGoodsService, method: findList, exception: java.lang.IllegalArgumentException: non null hash key required, dubbo version: 2.8.4, current host: 127.0.0.1" />
       <item value="Please check registry access list (whitelist/blacklist)." />
       <item value="duplicate" />
@@ -50,12 +51,11 @@
       <item value="Bean Definition Parser" />
       <item value="locate" />
       <item value="BeanDefinitionParser for element [solr-server]" />
-      <item value="ead &quot;main&quot; org.springframework.beans.factory.parsing.BeanDefinitionParsingException: Configuration problem: Cannot locate BeanDefinitionParser for element [solr-server]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
       </map>
