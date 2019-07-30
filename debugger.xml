@@ -79,6 +79,12 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_SYNTHETICS" value="false" />
+      <option name="SHOW_OBJECT_ID" value="false" />
+    </Renderer>
+  </component>
   <component name="XDebuggerSettings">
     <data-views>
       <sort-values>true</sort-values>
