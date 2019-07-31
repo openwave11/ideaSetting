@@ -81,8 +81,9 @@
   </component>
   <component name="NodeRendererSettings">
     <Renderer ID="ClassRenderer">
-      <option name="SHOW_SYNTHETICS" value="false" />
-      <option name="SHOW_OBJECT_ID" value="false" />
+      <option name="SHOW_STATIC" value="true" />
+      <option name="SHOW_FQ_TYPE_NAMES" value="true" />
+      <option name="SHOW_DECLARED_TYPE" value="true" />
     </Renderer>
   </component>
   <component name="XDebuggerSettings">
