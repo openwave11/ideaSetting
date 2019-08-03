@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to find main class" />
+      <item value="Execution default of goal org.springframework.boot:spring-boot-maven-plugin:2.0.1.RELEASE:repackage failed: Unable to find main class" />
       <item value="Execution default of goal org.springframework.boot:spring-boot-maven-plugin" />
       <item value="The relative path of the parent &amp;lt;code&amp;gt;pom.xml&amp;lt;/code&amp;gt; file within the check out. The default value is &amp;lt;code&amp;gt;../pom.xml&amp;lt;/code&amp;gt;. Maven looks for the parent pom first in the reactor of currently building projects, then in this location on the filesystem, then the local repository, and lastly in the remote repo. &amp;lt;code&amp;gt;relativePath&amp;lt;/code&amp;gt; allows you to select a different location, for example when your structure is flat, or deeper without an intermediate parent pom. However, the group ID, artifact ID and version are still required, and must match the file in the location given or it will revert to the repository for the POM. This feature is only for enhancing the development in a local checkout of that project." />
       <item value="july" />
@@ -49,13 +51,11 @@
       <item value="java.lang.NullPointerException at org.springframework.data.solr.core.convert.MappingSolrConverter.writeWildcardMapPropertyToTarget(MappingSolrConverter.java:310) at org.springframework.data.solr.core.convert.MappingSolrConverter.access$10" />
       <item value="Configuration problem: Cannot locate BeanDefinitionParser for element [solr-server]" />
       <item value="Offending resource:" />
-      <item value="resource" />
-      <item value="Offending" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
       </map>
