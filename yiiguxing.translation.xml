@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="july" />
       <item value="Stack Overflow Error" />
       <item value="Transaction marked as rollbackOnly" />
       <item value="Illegal Argument Exception" />
@@ -50,12 +51,11 @@
       <item value="Offending" />
       <item value="java.lang.IllegalStateException: Failed to load ApplicationContext" />
       <item value="Bean Definition Parsing Exception" />
-      <item value="Bean Definition Parser" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
       </map>
