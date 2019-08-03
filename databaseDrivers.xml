@@ -122,6 +122,8 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver">
+      <remarks>mongodb://localhost:27017/xc_cms</remarks>
+      <url-template name="1" template="mongodb://[username:password@]host1[:port1][,host2[:port2],...[,hostN[:portN]]][/[database][? options]]" />
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="true" />
