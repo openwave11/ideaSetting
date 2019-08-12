@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Conditional Rejecting Error Handler$Default Exception Strategy" />
+      <item value="conversion" />
       <item value="Example" />
       <item value="Conditional" />
       <item value="Unable to find main class" />
@@ -49,13 +51,11 @@
       <item value="Uncategorized Solr Exception" />
       <item value="org.springframework.data.solr.UncategorizedSolrException: nested exception is java.lang.NullPointerException" />
       <item value="write Wildcard Map Property To Target" />
-      <item value="at org.springframework.data.solr.core.convert.MappingSolrConverter.writeWildcardMapPropertyToTarget(MappingSolrConverter.java:310)" />
-      <item value="java.lang.NullPointerException at org.springframework.data.solr.core.convert.MappingSolrConverter.writeWildcardMapPropertyToTarget(MappingSolrConverter.java:310) at org.springframework.data.solr.core.convert.MappingSolrConverter.access$10" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
       </map>
