@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="defining" />
+      <item value="Consider" />
       <item value="Conditional Rejecting Error Handler$Default Exception Strategy" />
       <item value="conversion" />
       <item value="Example" />
@@ -49,13 +51,11 @@
       <item value="get Snipplets" />
       <item value="org.springframework.data.solr.UncategorizedSolrException: Document is missing mandatory uniqueKey field: id; nested exception is org.apache.solr.client.solrj.impl.HttpSolrServer$RemoteSolrException: Document is missing mandatory uniqueKey field: id" />
       <item value="Uncategorized Solr Exception" />
-      <item value="org.springframework.data.solr.UncategorizedSolrException: nested exception is java.lang.NullPointerException" />
-      <item value="write Wildcard Map Property To Target" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="166" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
       </map>
