@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Convert to multi-line string template" />
   </component>
 </application>
