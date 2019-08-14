@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fatal message conversion error; message rejected; it will be dropped or routed to a dead letter exchange" />
       <item value="absolute" />
       <item value="defining" />
       <item value="Consider" />
@@ -50,12 +51,11 @@
       <item value="snipplets" />
       <item value="Snipplets" />
       <item value="get Snipplets" />
-      <item value="org.springframework.data.solr.UncategorizedSolrException: Document is missing mandatory uniqueKey field: id; nested exception is org.apache.solr.client.solrj.impl.HttpSolrServer$RemoteSolrException: Document is missing mandatory uniqueKey field: id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
       </map>
