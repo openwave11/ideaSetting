@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="smallest" />
+      <item value="The smallest table capacity for which bins may be treeified. * (Otherwise the table is resized if too many nodes in a bin.) * Should be at least 4 * TREEIFY_THRESHOLD to avoid conflicts * between resizing and treeification thresholds." />
       <item value="This map usually acts as a binned (bucketed) hash table, but * when bins get too large, they are transformed into bins of * TreeNodes, each structured similarly to those in * java.util.TreeMap. Most methods try to use normal bins, but * relay to TreeNode methods when applicable (simply by checking * instanceof a node). Bins of TreeNodes may be traversed and * used like any others, but additionally support faster lookup * when overpopulated. However, since the vast majority of bins in * normal use are not overpopulated, checking for existence of * tree bins may be delayed in the course of table methods." />
       <item value="Fatal message conversion error; message rejected; it will be dropped or routed to a dead letter exchange" />
       <item value="absolute" />
@@ -49,8 +51,6 @@
       <item value="There is insufficient memory for the Java Runtime Environment to continue." />
       <item value="There is insufficient memory for the Java Runtime Environment to continue.&#10;# Native memory allocation (malloc) failed to allocate 816176 bytes for Chunk::new&#10;# An error report file with more information is saved as:&#10;# C:\develop\IdeaProject\pinyougou\pinyougou-parent\pinyougou-content-service\hs_err_pid9988.log&#10;[thread 11684 also had an error]&#10;[thread 812 also had an error]&#10;#&#10;# Compiler replay data is saved as:&#10;# C:\develop\IdeaProject\pinyougou\pinyougou-parent\pinyougou-content-service\replay_pid9988.log Process finished with exit code 1" />
       <item value="Exception sending context initialized event to listener instance of class org.springframework.web.context.ContextLoaderListener&#10;org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'dataSource' defined in URL" />
-      <item value="snipplets" />
-      <item value="Snipplets" />
     </histories>
     <option name="languageScores">
       <map>
