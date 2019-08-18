@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This map usually acts as a binned (bucketed) hash table, but * when bins get too large, they are transformed into bins of * TreeNodes, each structured similarly to those in * java.util.TreeMap. Most methods try to use normal bins, but * relay to TreeNode methods when applicable (simply by checking * instanceof a node). Bins of TreeNodes may be traversed and * used like any others, but additionally support faster lookup * when overpopulated. However, since the vast majority of bins in * normal use are not overpopulated, checking for existence of * tree bins may be delayed in the course of table methods." />
       <item value="Fatal message conversion error; message rejected; it will be dropped or routed to a dead letter exchange" />
       <item value="absolute" />
       <item value="defining" />
@@ -50,12 +51,11 @@
       <item value="Exception sending context initialized event to listener instance of class org.springframework.web.context.ContextLoaderListener&#10;org.springframework.beans.factory.BeanDefinitionStoreException: Invalid bean definition with name 'dataSource' defined in URL" />
       <item value="snipplets" />
       <item value="Snipplets" />
-      <item value="get Snipplets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
       </map>
