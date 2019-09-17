@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="autor" />
       <item value="explicit" />
       <item value="smallest" />
       <item value="The smallest table capacity for which bins may be treeified. * (Otherwise the table is resized if too many nodes in a bin.) * Should be at least 4 * TREEIFY_THRESHOLD to avoid conflicts * between resizing and treeification thresholds." />
@@ -50,14 +51,14 @@
       <item value="Native memory allocation (malloc) failed to allocate 816176 bytes for Chunk::new" />
       <item value="insufficient" />
       <item value="There is insufficient memory for the Java Runtime Environment to continue." />
-      <item value="There is insufficient memory for the Java Runtime Environment to continue.&#10;# Native memory allocation (malloc) failed to allocate 816176 bytes for Chunk::new&#10;# An error report file with more information is saved as:&#10;# C:\develop\IdeaProject\pinyougou\pinyougou-parent\pinyougou-content-service\hs_err_pid9988.log&#10;[thread 11684 also had an error]&#10;[thread 812 also had an error]&#10;#&#10;# Compiler replay data is saved as:&#10;# C:\develop\IdeaProject\pinyougou\pinyougou-parent\pinyougou-content-service\replay_pid9988.log Process finished with exit code 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
+        <entry key="CHINESE" value="170" />
         <entry key="ENGLISH" value="170" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
