@@ -46,7 +46,7 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
       <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.37-bin.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-8.0.11.jar</url>
       </library>
     </driver>
     <driver id="mysql">
