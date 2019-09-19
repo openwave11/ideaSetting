@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="jsp" approved="true" type="JSP" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="avi" type="Native" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
