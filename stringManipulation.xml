@@ -55,6 +55,11 @@
         </CustomActionModel>
       </list>
     </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="sortType" value="SHUFFLE" />
+      </SortSettings>
+    </option>
     <option name="version" value="2" />
   </component>
 </application>
