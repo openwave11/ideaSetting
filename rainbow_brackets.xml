@@ -1,6 +1,7 @@
 <application>
   <component name="RainbowSettings">
     <option name="customNotifyShowed" value="true" />
-    <option name="version" value="5.22" />
+    <option name="pressAnyKeyToRemoveTheHighlightingEffects" value="true" />
+    <option name="version" value="5.25" />
   </component>
 </application>

@@ -32,6 +32,7 @@
                 <option name="style" value="SCREAMING_SNAKE_CASE" />
               </Step>
               <Step>
+                <option name="enabled" value="false" />
                 <option name="style" value="DOT" />
               </Step>
               <Step>
