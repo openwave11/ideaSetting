@@ -5,7 +5,6 @@
         <option name="convertByteOrShortToInt" value="true" />
         <option name="iconName" value="arrow" />
         <option name="ifTestStringNullAndEmpty" value="true" />
-        <option name="tempFilePath" value="C:\Users\ADMINI~1\AppData\Local\Temp\libhello.dll" />
         <option name="useActualParamNames" value="true" />
         <option name="usejava8LocalDateTimeEct" value="true" />
         <option name="userMacSet">
@@ -13,6 +12,7 @@
             <option value="17271806BB8E" />
           </set>
         </option>
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
