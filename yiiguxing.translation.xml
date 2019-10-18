@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Amount" />
       <item value="Error during artifact deployment. See server log for details." />
       <item value="Configuration factory class. * Used to create Configuration for loading deserialized unread properties." />
       <item value="Parses all the unprocessed statement nodes in the cache. It is recommended * to call this method once all the mappers are added as it provides fail-fast * statement validation." />
@@ -50,12 +51,11 @@
       <item value="uplicate entry 'zhangsan' for key 'username'" />
       <item value="MissingAccessKeyId : AccessKeyId is mandatory for this action." />
       <item value="environment" />
-      <item value="Environment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
