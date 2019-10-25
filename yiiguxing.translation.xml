@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nested exception is java.lang.IllegalArgumentException" />
       <item value="Amount" />
       <item value="Error during artifact deployment. See server log for details." />
       <item value="Configuration factory class. * Used to create Configuration for loading deserialized unread properties." />
@@ -50,12 +51,11 @@
       <item value="Immutable, arbitrary-precision signed decimal numbers. A * {@code BigDecimal} consists of an arbitrary precision integer * &lt;i&gt;unscaled value&lt;/i&gt; and a 32-bit integer &lt;i&gt;scale&lt;/i&gt;. If zero * or positive, the scale is the number of digits to the right of the * decimal point. If negative, the unscaled value of the number is * multiplied by ten to the power of the negation of the scale. The * value of the number represented by the {@code BigDecimal} is * therefore &lt;tt&gt;(unscaledValue &amp;times; 10&lt;sup&gt;-scale&lt;/sup&gt;)&lt;/tt&gt;." />
       <item value="uplicate entry 'zhangsan' for key 'username'" />
       <item value="MissingAccessKeyId : AccessKeyId is mandatory for this action." />
-      <item value="environment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
