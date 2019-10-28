@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select * FROM ACT_RU_EXECUTION WHERE ID_ = '1207505';" />
       <item value="nested exception is java.lang.IllegalArgumentException" />
       <item value="Amount" />
       <item value="Error during artifact deployment. See server log for details." />
@@ -50,12 +51,11 @@
       <item value="11:14:55 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc&#10;严重: The web application [] registered the JDBC driver [com.alibaba.druid.proxy.DruidDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered." />
       <item value="Immutable, arbitrary-precision signed decimal numbers. A * {@code BigDecimal} consists of an arbitrary precision integer * &lt;i&gt;unscaled value&lt;/i&gt; and a 32-bit integer &lt;i&gt;scale&lt;/i&gt;. If zero * or positive, the scale is the number of digits to the right of the * decimal point. If negative, the unscaled value of the number is * multiplied by ten to the power of the negation of the scale. The * value of the number represented by the {@code BigDecimal} is * therefore &lt;tt&gt;(unscaledValue &amp;times; 10&lt;sup&gt;-scale&lt;/sup&gt;)&lt;/tt&gt;." />
       <item value="uplicate entry 'zhangsan' for key 'username'" />
-      <item value="MissingAccessKeyId : AccessKeyId is mandatory for this action." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
