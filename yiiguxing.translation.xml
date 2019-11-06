@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="patterns" />
+      <item value="Comma-separated list of view names (patterns allowed) that can be resolved." />
       <item value="org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: &quot;class path resource [templates/books.html]&quot;) at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:241) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]" />
       <item value="amount" />
       <item value="Amount" />
@@ -49,13 +51,11 @@
       <item value="Protocol Handler" />
       <item value="call 'refresh' before invoking lifecycle methods via the context: Root WebApplicationContext: startup date [Wed Jul 24 23:14:54 CST 2019]; root of context hierarchy" />
       <item value="The web application [] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak." />
-      <item value="but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered." />
-      <item value="11:14:55 下午 org.apache.catalina.loader.WebappClassLoader clearReferencesJdbc&#10;严重: The web application [] registered the JDBC driver [com.alibaba.druid.proxy.DruidDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
