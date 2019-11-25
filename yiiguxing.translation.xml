@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deserialize" />
       <item value="definitions" />
       <item value="patterns" />
       <item value="Comma-separated list of view names (patterns allowed) that can be resolved." />
@@ -50,12 +51,11 @@
       <item value="pinyougou-cart-service" />
       <item value="Protocol" />
       <item value="Protocol Handler" />
-      <item value="call 'refresh' before invoking lifecycle methods via the context: Root WebApplicationContext: startup date [Wed Jul 24 23:14:54 CST 2019]; root of context hierarchy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
