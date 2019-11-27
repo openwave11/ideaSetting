@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="channel" />
       <item value="deserialize" />
       <item value="definitions" />
       <item value="patterns" />
@@ -50,12 +51,11 @@
       <item value="modules.module[21]' specifies duplicate child module pinyougou-cart-service @ line 33, column 17" />
       <item value="pinyougou-cart-service" />
       <item value="Protocol" />
-      <item value="Protocol Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="189" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
