@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'courseController': Unsatisfied dependency expressed through field 'courseService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'courseService': Unsatisfied dependency expressed through field 'teachPlanRepository'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'teachPlanRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Failed to create query for method public abstract com.xuecheng.framework.domain.course.ext.TeachplanNode com.xuecheng.manage_course.dao.TeachPlanRepository.findTeachPlanList(java.lang.String)! No property findTeachPlanList found for type TeachplanNode!" />
       <item value="channel" />
       <item value="deserialize" />
       <item value="definitions" />
@@ -50,12 +51,11 @@
       <item value="specifies" />
       <item value="modules.module[21]' specifies duplicate child module pinyougou-cart-service @ line 33, column 17" />
       <item value="pinyougou-cart-service" />
-      <item value="Protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
