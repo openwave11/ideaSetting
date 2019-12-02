@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/ityouknow/spring-boot-examples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Black1499/kafka_study.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\develop\IdeaProject\learning\xcEdu\xcEduService" />
+    <option name="cloneParentDir" value="C:\develop\IdeaProject\GitHubs" />
   </component>
 </application>
