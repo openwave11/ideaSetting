@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manage course" />
       <item value="The connection string contains an empty host '[]'." />
       <item value="org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
       <item value=".1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
@@ -50,7 +51,6 @@
       <item value="july" />
       <item value="Stack Overflow Error" />
       <item value="Transaction marked as rollbackOnly" />
-      <item value="Illegal Argument Exception" />
     </histories>
     <option name="languageScores">
       <map>
