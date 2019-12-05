@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.0.1.RELEASE:repackage (default) on project xc-framework-common: Execution default of goal org.springframework.boot:spring-boot-maven-plugin:2.0.1.RELEASE:repackage failed: Unable to find main class -&gt; [Help 1]" />
       <item value="rg.springframework.dao.InvalidDataAccessApiUsageException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call; nested exception is javax.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call" />
       <item value="2019-12-05 00:52:50.501 [http-nio-31200-exec-5] ERROR c.x.f.exception.ExceptionCatch - catch exception : No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call; nested exception is javax.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call" />
       <item value="manage course" />
@@ -50,12 +51,11 @@
       <item value="Execution default of goal org.springframework.boot:spring-boot-maven-plugin:2.0.1.RELEASE:repackage failed: Unable to find main class" />
       <item value="Execution default of goal org.springframework.boot:spring-boot-maven-plugin" />
       <item value="The relative path of the parent &amp;lt;code&amp;gt;pom.xml&amp;lt;/code&amp;gt; file within the check out. The default value is &amp;lt;code&amp;gt;../pom.xml&amp;lt;/code&amp;gt;. Maven looks for the parent pom first in the reactor of currently building projects, then in this location on the filesystem, then the local repository, and lastly in the remote repo. &amp;lt;code&amp;gt;relativePath&amp;lt;/code&amp;gt; allows you to select a different location, for example when your structure is flat, or deeper without an intermediate parent pom. However, the group ID, artifact ID and version are still required, and must match the file in the location given or it will revert to the repository for the POM. This feature is only for enhancing the development in a local checkout of that project." />
-      <item value="july" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
