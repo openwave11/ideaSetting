@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A child container failed during start" />
       <item value="no main manifest attribute," />
       <item value="manifest" />
       <item value="Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.0.1.RELEASE:repackage (default) on project xc-framework-common: Execution default of goal org.springframework.boot:spring-boot-maven-plugin:2.0.1.RELEASE:repackage failed: Unable to find main class -&gt; [Help 1]" />
@@ -50,12 +51,11 @@
       <item value="Example" />
       <item value="Conditional" />
       <item value="Unable to find main class" />
-      <item value="Execution default of goal org.springframework.boot:spring-boot-maven-plugin:2.0.1.RELEASE:repackage failed: Unable to find main class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
