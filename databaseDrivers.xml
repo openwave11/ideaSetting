@@ -48,6 +48,9 @@
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-8.0.11.jar</url>
       </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.37-bin.jar</url>
+      </library>
     </driver>
     <driver id="mysql">
       <artifact name="MySQL Connector/J" version="5.1.46" />
