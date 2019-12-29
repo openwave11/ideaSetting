@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The web application [ROOT] appears to have started a thread named [spring.cloud.inetutils] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
+      <item value="Duplicate entry '10011959' for key 'PRIMARY'" />
+      <item value="A child container failed during start" />
+      <item value="no main manifest attribute," />
+      <item value="manifest" />
+      <item value="Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:2.0.1.RELEASE:repackage (default) on project xc-framework-common: Execution default of goal org.springframework.boot:spring-boot-maven-plugin:2.0.1.RELEASE:repackage failed: Unable to find main class -&gt; [Help 1]" />
+      <item value="rg.springframework.dao.InvalidDataAccessApiUsageException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call; nested exception is javax.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call" />
+      <item value="2019-12-05 00:52:50.501 [http-nio-31200-exec-5] ERROR c.x.f.exception.ExceptionCatch - catch exception : No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call; nested exception is javax.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call" />
+      <item value="manage course" />
+      <item value="The connection string contains an empty host '[]'." />
+      <item value="org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
+      <item value=".1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time." />
+      <item value="Error while fetching metadata with correlation id 26" />
+      <item value="Configuration options: 'appendAssemblyId' is set to false, and 'classifier' is missing." />
+      <item value="ARNING] The POM for com.fasterxml.jackson.core:jackson-databind:jar:2.7.6 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details" />
+      <item value="The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access." />
+      <item value="/** * Copy the property values of the given source bean into the target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored. * &lt;p&gt;This is just a convenience method. For more complex transfer needs, * consider using a full BeanWrapper. * @param source the source bean * @param target the target bean * @throws BeansException if the copying failed * @see BeanWrapper" />
+      <item value="[C:\develop\IdeaProject\learning\xcEdu\xcEduService\xc-service-manage-course\target\classes\com\xuecheng\manage_course\dao\CategoryMapper.class]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: java.lang.IllegalArgumentException: Result Maps collection already contains value for com.xuecheng.manage_course.dao.CategoryMapper.mapper_resultMap[CategoryNodeMap]_collection[children]" />
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'categoryController': Unsatisfied dependency expressed through field 'categoryService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'categoryService': Unsatisfied dependency expressed through field 'categoryMapper'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'categoryMapper' defined in file" />
+      <item value="Result Maps collection already contains value for com.xuecheng.manage_course.dao.CategoryMapper.mapper_resultMap[CategoryNodeMap]_collection[children]" />
+      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'courseController': Unsatisfied dependency expressed through field 'courseService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'courseService': Unsatisfied dependency expressed through field 'teachPlanRepository'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'teachPlanRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Failed to create query for method public abstract com.xuecheng.framework.domain.course.ext.TeachplanNode com.xuecheng.manage_course.dao.TeachPlanRepository.findTeachPlanList(java.lang.String)! No property findTeachPlanList found for type TeachplanNode!" />
       <item value="channel" />
       <item value="deserialize" />
       <item value="definitions" />
@@ -30,32 +51,11 @@
       <item value="Conditional Rejecting Error Handler$Default Exception Strategy" />
       <item value="conversion" />
       <item value="Example" />
-      <item value="Conditional" />
-      <item value="Unable to find main class" />
-      <item value="Execution default of goal org.springframework.boot:spring-boot-maven-plugin:2.0.1.RELEASE:repackage failed: Unable to find main class" />
-      <item value="Execution default of goal org.springframework.boot:spring-boot-maven-plugin" />
-      <item value="The relative path of the parent &amp;lt;code&amp;gt;pom.xml&amp;lt;/code&amp;gt; file within the check out. The default value is &amp;lt;code&amp;gt;../pom.xml&amp;lt;/code&amp;gt;. Maven looks for the parent pom first in the reactor of currently building projects, then in this location on the filesystem, then the local repository, and lastly in the remote repo. &amp;lt;code&amp;gt;relativePath&amp;lt;/code&amp;gt; allows you to select a different location, for example when your structure is flat, or deeper without an intermediate parent pom. However, the group ID, artifact ID and version are still required, and must match the file in the location given or it will revert to the repository for the POM. This feature is only for enhancing the development in a local checkout of that project." />
-      <item value="july" />
-      <item value="Stack Overflow Error" />
-      <item value="Transaction marked as rollbackOnly" />
-      <item value="Illegal Argument Exception" />
-      <item value="No such any registry to export service in provider 192.168.25.1 use dubbo version 2.8.4" />
-      <item value="monday" />
-      <item value="MON" />
-      <item value="Could not load TestContextBootstrapper [null]. Specify @BootstrapWith's 'value' attribute or make the default bootstrapper class available" />
-      <item value="non null hash key required" />
-      <item value="[DUBBO] Got unchecked and undeclared exception which called by 192.168.25.1. service: com.pinyougou.seckill.service.SeckillGoodsService, method: findList, exception: java.lang.IllegalArgumentException: non null hash key required, dubbo version: 2.8.4, current host: 127.0.0.1" />
-      <item value="Please check registry access list (whitelist/blacklist)." />
-      <item value="duplicate" />
-      <item value="specifies" />
-      <item value="modules.module[21]' specifies duplicate child module pinyougou-cart-service @ line 33, column 17" />
-      <item value="pinyougou-cart-service" />
-      <item value="Protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
