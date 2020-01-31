@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Date format string or a fully-qualified date format class name. For instance, * `yyyy-MM-dd HH:mm:ss`." />
+      <item value="Joda date time format string. If not configured, &quot;date-format&quot; is used as a * fallback if it is configured with a format string." />
       <item value="No primary or default constructor found for interface java.util.List" />
       <item value="The web application [ROOT] appears to have started a thread named [spring.cloud.inetutils] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
       <item value="Duplicate entry '10011959' for key 'PRIMARY'" />
@@ -49,13 +51,11 @@
       <item value="absolute" />
       <item value="defining" />
       <item value="Consider" />
-      <item value="Conditional Rejecting Error Handler$Default Exception Strategy" />
-      <item value="conversion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
