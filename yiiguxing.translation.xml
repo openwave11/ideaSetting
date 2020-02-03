@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="id" />
+      <item value="monthly Quotation" />
       <item value="Date format string or a fully-qualified date format class name. For instance, * `yyyy-MM-dd HH:mm:ss`." />
       <item value="Joda date time format string. If not configured, &quot;date-format&quot; is used as a * fallback if it is configured with a format string." />
       <item value="No primary or default constructor found for interface java.util.List" />
@@ -49,8 +51,6 @@
       <item value="This map usually acts as a binned (bucketed) hash table, but * when bins get too large, they are transformed into bins of * TreeNodes, each structured similarly to those in * java.util.TreeMap. Most methods try to use normal bins, but * relay to TreeNode methods when applicable (simply by checking * instanceof a node). Bins of TreeNodes may be traversed and * used like any others, but additionally support faster lookup * when overpopulated. However, since the vast majority of bins in * normal use are not overpopulated, checking for existence of * tree bins may be delayed in the course of table methods." />
       <item value="Fatal message conversion error; message rejected; it will be dropped or routed to a dead letter exchange" />
       <item value="absolute" />
-      <item value="defining" />
-      <item value="Consider" />
     </histories>
     <option name="languageScores">
       <map>
