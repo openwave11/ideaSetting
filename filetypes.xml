@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="avi" type="Native" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="properties-原版" type="PLAIN_TEXT" />
       <mapping ext="properties_back" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
