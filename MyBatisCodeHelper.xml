@@ -6,7 +6,14 @@
         <option name="generateWithIfTest" value="true" />
         <option name="iconName" value="arrow" />
         <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="useActualParamNames" value="true" />
         <option name="usejava8LocalDateTimeEct" value="true" />
+        <option name="userMacSet">
+          <set>
+            <option value="17271806BB8E" />
+          </set>
+        </option>
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>

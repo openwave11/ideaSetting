@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The custom pattern to use to format the field. * &lt;p&gt;Defaults to empty String, indicating no custom pattern String has been specified. * Set this attribute when you wish to format your field in accordance with a custom * date time pattern not represented by a style or ISO format. * &lt;p&gt;Note: This pattern follows the original {@link java.text.SimpleDateFormat} style, * as also supported by Joda-Time, with strict parsing semantics towards overflows * (e.g. rejecting a Feb 29 value for a non-leap-year). As a consequence, 'yy' * characters indicate a year in the traditional style, not a &quot;year-of-era&quot; as in the * {@link java.time.format.DateTimeFormatter} specification (i.e. 'yy' turns into 'uu' * when going through that {@code DateTimeFormatter} with strict resolution mode)." />
+      <item value="除法" />
+      <item value="sqrt" />
+      <item value="pow" />
+      <item value="div" />
+      <item value="mul" />
+      <item value="square" />
+      <item value="course media teachplan gradeerror" />
+      <item value="COURSE MEDIA TEACHPLAN ISNULL" />
+      <item value="id" />
+      <item value="monthly Quotation" />
+      <item value="Date format string or a fully-qualified date format class name. For instance, * `yyyy-MM-dd HH:mm:ss`." />
+      <item value="Joda date time format string. If not configured, &quot;date-format&quot; is used as a * fallback if it is configured with a format string." />
       <item value="No primary or default constructor found for interface java.util.List" />
       <item value="The web application [ROOT] appears to have started a thread named [spring.cloud.inetutils] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
       <item value="Duplicate entry '10011959' for key 'PRIMARY'" />
@@ -38,24 +51,14 @@
       <item value="Parses all the unprocessed statement nodes in the cache. It is recommended * to call this method once all the mappers are added as it provides fail-fast * statement validation." />
       <item value="identified" />
       <item value="deprecated" />
-      <item value="suspended" />
-      <item value="contain" />
-      <item value="autor" />
-      <item value="explicit" />
-      <item value="smallest" />
-      <item value="The smallest table capacity for which bins may be treeified. * (Otherwise the table is resized if too many nodes in a bin.) * Should be at least 4 * TREEIFY_THRESHOLD to avoid conflicts * between resizing and treeification thresholds." />
-      <item value="This map usually acts as a binned (bucketed) hash table, but * when bins get too large, they are transformed into bins of * TreeNodes, each structured similarly to those in * java.util.TreeMap. Most methods try to use normal bins, but * relay to TreeNode methods when applicable (simply by checking * instanceof a node). Bins of TreeNodes may be traversed and * used like any others, but additionally support faster lookup * when overpopulated. However, since the vast majority of bins in * normal use are not overpopulated, checking for existence of * tree bins may be delayed in the course of table methods." />
-      <item value="Fatal message conversion error; message rejected; it will be dropped or routed to a dead letter exchange" />
-      <item value="absolute" />
-      <item value="defining" />
-      <item value="Consider" />
-      <item value="Conditional Rejecting Error Handler$Default Exception Strategy" />
-      <item value="conversion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="POLISH" value="1" />
+        <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="SPANISH" value="1" />
